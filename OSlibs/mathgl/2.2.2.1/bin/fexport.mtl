@@ -1,0 +1,14 @@
+newmtl Material
+Ka 0.0 0.0 0.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+d 1.0
+illum 2
+map_Kd fexport_txt.png
+newmtl Material0
+Ka 0.1 0.1 0.1
+Kd 0 0 0
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0

@@ -1,0 +1,1 @@
+{"used_options":["--with-fltk"],"unused_options":["--with-qt=","--without-gsl","--without-jpeg","--without-libharu","--without-libpng","--with-hdf5","--with-wxmac","--with-giflib"],"built_as_bottle":false,"poured_from_bottle":false,"tapped_from":"homebrew/homebrew-science","time":1411935530,"HEAD":"c42916feb0c78e9e7cce63f8ccf36cb6532ef7d7","stdlib":"libcxx","compiler":"clang"}

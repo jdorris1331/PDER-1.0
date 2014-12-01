@@ -1,0 +1,65 @@
+#include "ctrlmenubar.h"
+
+CtrlMenuBar::CtrlMenuBar() : Fl_Menu_Bar(0, 0, 500, 30, 0)
+{	
+	Fl_Menu_Item mbItems[] = {
+		{ "&File", 0, 0, 0, FL_SUBMENU },
+			{ "New" },
+			{ "Open" },
+			//{ "Add to Library" },
+			{ "Recent Files", 0, 0, 0, FL_SUBMENU | FL_MENU_DIVIDER },
+				{ 0 },
+			{ "Save" },
+			{ "Save As", 0, 0, 0, FL_MENU_DIVIDER },
+			{ "Print" },
+			{ "Export", 0, 0, 0, FL_SUBMENU | FL_MENU_DIVIDER },
+				{ 0 },
+			{ "Import", 0, 0, 0, FL_SUBMENU | FL_MENU_DIVIDER },
+				{ 0 },
+			{ "Quit" },
+			{ 0 },
+		{ "&Edit", 0, 0, 0, FL_SUBMENU },
+			{ "Undo" },
+			{ "Redo", 0, 0, 0, FL_MENU_DIVIDER },
+			{ "Cut" },
+			{ "Copy" },
+			{ "Paste" },
+			{ "Delete", 0, 0, 0, FL_MENU_DIVIDER },
+			{ "Select All", 0, 0, 0, FL_MENU_DIVIDER },
+			/*{ "Find..." },
+			{ "Find Next", 0, 0, 0, FL_MENU_DIVIDER },
+			{ "Shift Left" },
+			{ "Shift Right", 0, 0, 0, FL_MENU_DIVIDER },
+			{ "Comment" },
+			{ "Uncomment", 0, 0, 0, FL_MENU_DIVIDER },
+			{ "Snap to Grid", 0, 0, 0, FL_MENU_TOGGLE|FL_MENU_VALUE },*/
+			{ 0 },
+		{ "&Tools", 0, 0, 0, FL_SUBMENU },
+			/*{ "Halt", 0, 0, 0, FL_MENU_DIVIDER },
+			{ "Global Monitor" },
+			{ "Turtle Monitor" },
+			{ "Patch Monitor" },
+			{ "Link Monitor" },
+			{ "Close All Agent Monitors", 0, 0, 0, FL_MENU_DIVIDER },
+			{ "Hide Command Center", 0, 0, 0, FL_MENU_DIVIDER },
+			{ "3D View" },
+			{ "Color Swatches" },
+			{ "Turtle Shape Editor" },
+			{ "Link Shape Editor" },
+			{ "BehaviorSpace" },
+			{ "System Dynamics Monitor", 0, 0, 0, FL_MENU_DIVIDER },
+			{ "HubNet Client Editor" },
+			{ "HubNet Control Center" },*/
+			{ 0 },
+		{ "&Zoom", 0, 0, 0, FL_SUBMENU },
+			/*{ "Larger" },
+			{ "Normal Size" },
+			{ "Smaller" },*/
+			{ 0 },
+		{ "&Help", 0, 0, 0, FL_SUBMENU },
+			{ "PDER Help" },
+			{ 0 },
+		{ 0 } };
+
+	this->copy(mbItems);
+}

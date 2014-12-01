@@ -1,0 +1,1129 @@
+solid mathgl
+facet normal nan nan 0.36
+outer loop
+vertex 306.401 99.4668 483.486
+vertex 374.92 21.2142 579.914
+vertex 400 190.615 597.293
+endloop
+endfacet
+facet normal nan nan 0.36
+outer loop
+vertex 306.401 99.4668 483.486
+vertex 459.339 105.52 476.028
+vertex 400 190.615 597.293
+endloop
+endfacet
+facet normal nan nan 0.36
+outer loop
+vertex 306.401 99.4668 483.486
+vertex 374.92 21.2142 579.914
+vertex 459.339 105.52 476.028
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 666.667 324.194 550.579
+vertex 666.667 353.226 550.579
+vertex 752.688 324.194 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 752.688 353.226 550.579
+vertex 666.667 353.226 550.579
+vertex 752.688 324.194 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 580.645 324.194 550.579
+vertex 580.645 353.226 550.579
+vertex 666.667 324.194 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 666.667 353.226 550.579
+vertex 580.645 353.226 550.579
+vertex 666.667 324.194 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 718.28 527.419 550.579
+vertex 718.28 556.452 550.579
+vertex 752.688 527.419 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 752.688 556.452 550.579
+vertex 718.28 556.452 550.579
+vertex 752.688 527.419 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 683.871 527.419 550.579
+vertex 683.871 556.452 550.579
+vertex 718.28 527.419 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 718.28 556.452 550.579
+vertex 683.871 556.452 550.579
+vertex 718.28 527.419 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 649.462 527.419 550.579
+vertex 649.462 556.452 550.579
+vertex 683.871 527.419 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 683.871 556.452 550.579
+vertex 649.462 556.452 550.579
+vertex 683.871 527.419 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 615.054 527.419 550.579
+vertex 615.054 556.452 550.579
+vertex 649.462 527.419 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 649.462 556.452 550.579
+vertex 615.054 556.452 550.579
+vertex 649.462 527.419 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 580.645 527.419 550.579
+vertex 580.645 556.452 550.579
+vertex 615.054 527.419 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 615.054 556.452 550.579
+vertex 580.645 556.452 550.579
+vertex 615.054 527.419 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 718.28 498.387 550.579
+vertex 718.28 527.419 550.579
+vertex 752.688 498.387 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 752.688 527.419 550.579
+vertex 718.28 527.419 550.579
+vertex 752.688 498.387 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 683.871 498.387 550.579
+vertex 683.871 527.419 550.579
+vertex 718.28 498.387 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 718.28 527.419 550.579
+vertex 683.871 527.419 550.579
+vertex 718.28 498.387 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 649.462 498.387 550.579
+vertex 649.462 527.419 550.579
+vertex 683.871 498.387 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 683.871 527.419 550.579
+vertex 649.462 527.419 550.579
+vertex 683.871 498.387 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 615.054 498.387 550.579
+vertex 615.054 527.419 550.579
+vertex 649.462 498.387 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 649.462 527.419 550.579
+vertex 615.054 527.419 550.579
+vertex 649.462 498.387 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 580.645 498.387 550.579
+vertex 580.645 527.419 550.579
+vertex 615.054 498.387 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 615.054 527.419 550.579
+vertex 580.645 527.419 550.579
+vertex 615.054 498.387 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 718.28 469.355 550.579
+vertex 718.28 498.387 550.579
+vertex 752.688 469.355 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 752.688 498.387 550.579
+vertex 718.28 498.387 550.579
+vertex 752.688 469.355 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 683.871 469.355 550.579
+vertex 683.871 498.387 550.579
+vertex 718.28 469.355 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 718.28 498.387 550.579
+vertex 683.871 498.387 550.579
+vertex 718.28 469.355 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 649.462 469.355 550.579
+vertex 649.462 498.387 550.579
+vertex 683.871 469.355 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 683.871 498.387 550.579
+vertex 649.462 498.387 550.579
+vertex 683.871 469.355 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 615.054 469.355 550.579
+vertex 615.054 498.387 550.579
+vertex 649.462 469.355 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 649.462 498.387 550.579
+vertex 615.054 498.387 550.579
+vertex 649.462 469.355 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 580.645 469.355 550.579
+vertex 580.645 498.387 550.579
+vertex 615.054 469.355 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 615.054 498.387 550.579
+vertex 580.645 498.387 550.579
+vertex 615.054 469.355 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 718.28 440.323 550.579
+vertex 718.28 469.355 550.579
+vertex 752.688 440.323 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 752.688 469.355 550.579
+vertex 718.28 469.355 550.579
+vertex 752.688 440.323 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 683.871 440.323 550.579
+vertex 683.871 469.355 550.579
+vertex 718.28 440.323 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 718.28 469.355 550.579
+vertex 683.871 469.355 550.579
+vertex 718.28 440.323 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 649.462 440.323 550.579
+vertex 649.462 469.355 550.579
+vertex 683.871 440.323 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 683.871 469.355 550.579
+vertex 649.462 469.355 550.579
+vertex 683.871 440.323 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 615.054 440.323 550.579
+vertex 615.054 469.355 550.579
+vertex 649.462 440.323 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 649.462 469.355 550.579
+vertex 615.054 469.355 550.579
+vertex 649.462 440.323 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 580.645 440.323 550.579
+vertex 580.645 469.355 550.579
+vertex 615.054 440.323 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 615.054 469.355 550.579
+vertex 580.645 469.355 550.579
+vertex 615.054 440.323 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 718.28 411.29 550.579
+vertex 718.28 440.323 550.579
+vertex 752.688 411.29 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 752.688 440.323 550.579
+vertex 718.28 440.323 550.579
+vertex 752.688 411.29 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 683.871 411.29 550.579
+vertex 683.871 440.323 550.579
+vertex 718.28 411.29 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 718.28 440.323 550.579
+vertex 683.871 440.323 550.579
+vertex 718.28 411.29 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 649.462 411.29 550.579
+vertex 649.462 440.323 550.579
+vertex 683.871 411.29 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 683.871 440.323 550.579
+vertex 649.462 440.323 550.579
+vertex 683.871 411.29 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 615.054 411.29 550.579
+vertex 615.054 440.323 550.579
+vertex 649.462 411.29 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 649.462 440.323 550.579
+vertex 615.054 440.323 550.579
+vertex 649.462 411.29 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 580.645 411.29 550.579
+vertex 580.645 440.323 550.579
+vertex 615.054 411.29 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 615.054 440.323 550.579
+vertex 580.645 440.323 550.579
+vertex 615.054 411.29 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 718.28 382.258 550.579
+vertex 718.28 411.29 550.579
+vertex 752.688 382.258 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 752.688 411.29 550.579
+vertex 718.28 411.29 550.579
+vertex 752.688 382.258 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 683.871 382.258 550.579
+vertex 683.871 411.29 550.579
+vertex 718.28 382.258 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 718.28 411.29 550.579
+vertex 683.871 411.29 550.579
+vertex 718.28 382.258 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 649.462 382.258 550.579
+vertex 649.462 411.29 550.579
+vertex 683.871 382.258 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 683.871 411.29 550.579
+vertex 649.462 411.29 550.579
+vertex 683.871 382.258 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 615.054 382.258 550.579
+vertex 615.054 411.29 550.579
+vertex 649.462 382.258 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 649.462 411.29 550.579
+vertex 615.054 411.29 550.579
+vertex 649.462 382.258 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 580.645 382.258 550.579
+vertex 580.645 411.29 550.579
+vertex 615.054 382.258 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 615.054 411.29 550.579
+vertex 580.645 411.29 550.579
+vertex 615.054 382.258 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 718.28 353.226 550.579
+vertex 718.28 382.258 550.579
+vertex 752.688 353.226 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 752.688 382.258 550.579
+vertex 718.28 382.258 550.579
+vertex 752.688 353.226 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 683.871 353.226 550.579
+vertex 683.871 382.258 550.579
+vertex 718.28 353.226 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 718.28 382.258 550.579
+vertex 683.871 382.258 550.579
+vertex 718.28 353.226 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 649.462 353.226 550.579
+vertex 649.462 382.258 550.579
+vertex 683.871 353.226 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 683.871 382.258 550.579
+vertex 649.462 382.258 550.579
+vertex 683.871 353.226 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 615.054 353.226 550.579
+vertex 615.054 382.258 550.579
+vertex 649.462 353.226 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 649.462 382.258 550.579
+vertex 615.054 382.258 550.579
+vertex 649.462 353.226 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 580.645 353.226 550.579
+vertex 580.645 382.258 550.579
+vertex 615.054 353.226 550.579
+endloop
+endfacet
+facet normal nan nan -1
+outer loop
+vertex 615.054 382.258 550.579
+vertex 580.645 382.258 550.579
+vertex 615.054 353.226 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 342.585 452.8 550.579
+vertex 342.585 447.2 550.579
+vertex 336.985 452.8 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 336.985 447.2 550.579
+vertex 342.585 447.2 550.579
+vertex 336.985 452.8 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 311.178 447.2 550.579
+vertex 311.178 452.8 550.579
+vertex 316.778 447.2 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 316.778 452.8 550.579
+vertex 311.178 452.8 550.579
+vertex 316.778 447.2 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 405.802 369.781 550.579
+vertex 405.802 375.381 550.579
+vertex 411.402 369.781 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 411.402 375.381 550.579
+vertex 405.802 375.381 550.579
+vertex 411.402 369.781 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 437.209 452.8 550.579
+vertex 437.209 447.2 550.579
+vertex 431.609 452.8 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 431.609 447.2 550.579
+vertex 437.209 447.2 550.579
+vertex 431.609 452.8 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 339.785 353.226 550.579
+vertex 335.585 353.226 550.579
+vertex 334.185 350.426 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 339.785 353.226 550.579
+vertex 335.585 353.226 550.579
+vertex 334.185 356.026 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 313.978 353.226 550.579
+vertex 309.778 353.226 550.579
+vertex 308.378 356.026 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 313.978 353.226 550.579
+vertex 309.778 353.226 550.579
+vertex 308.378 350.426 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 339.785 372.581 550.579
+vertex 343.985 372.581 550.579
+vertex 345.385 369.781 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 339.785 372.581 550.579
+vertex 343.985 372.581 550.579
+vertex 345.385 375.381 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 313.978 372.581 550.579
+vertex 318.178 372.581 550.579
+vertex 319.578 375.381 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 313.978 372.581 550.579
+vertex 318.178 372.581 550.579
+vertex 319.578 369.781 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 336.985 414.09 550.579
+vertex 336.985 408.49 550.579
+vertex 342.585 411.29 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 316.778 408.49 550.579
+vertex 316.778 414.09 550.579
+vertex 311.178 411.29 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 339.785 430.645 550.579
+vertex 342.585 430.645 550.579
+vertex 342.21 429.245 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 339.785 430.645 550.579
+vertex 342.21 429.245 550.579
+vertex 341.185 428.22 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 339.785 430.645 550.579
+vertex 341.185 428.22 550.579
+vertex 339.785 427.845 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 339.785 430.645 550.579
+vertex 339.785 427.845 550.579
+vertex 338.385 428.22 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 339.785 430.645 550.579
+vertex 338.385 428.22 550.579
+vertex 337.36 429.245 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 339.785 430.645 550.579
+vertex 337.36 429.245 550.579
+vertex 336.985 430.645 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 339.785 430.645 550.579
+vertex 336.985 430.645 550.579
+vertex 337.36 432.045 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 339.785 430.645 550.579
+vertex 337.36 432.045 550.579
+vertex 338.385 433.07 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 339.785 430.645 550.579
+vertex 338.385 433.07 550.579
+vertex 339.785 433.445 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 339.785 430.645 550.579
+vertex 339.785 433.445 550.579
+vertex 341.185 433.07 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 339.785 430.645 550.579
+vertex 341.185 433.07 550.579
+vertex 342.21 432.045 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 339.785 430.645 550.579
+vertex 342.21 432.045 550.579
+vertex 342.585 430.645 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 313.978 430.645 550.579
+vertex 311.178 430.645 550.579
+vertex 311.554 432.045 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 313.978 430.645 550.579
+vertex 311.554 432.045 550.579
+vertex 312.578 433.07 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 313.978 430.645 550.579
+vertex 312.578 433.07 550.579
+vertex 313.978 433.445 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 313.978 430.645 550.579
+vertex 313.978 433.445 550.579
+vertex 315.378 433.07 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 313.978 430.645 550.579
+vertex 315.378 433.07 550.579
+vertex 316.403 432.045 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 313.978 430.645 550.579
+vertex 316.403 432.045 550.579
+vertex 316.778 430.645 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 313.978 430.645 550.579
+vertex 316.778 430.645 550.579
+vertex 316.403 429.245 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 313.978 430.645 550.579
+vertex 316.403 429.245 550.579
+vertex 315.378 428.22 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 313.978 430.645 550.579
+vertex 315.378 428.22 550.579
+vertex 313.978 427.845 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 313.978 430.645 550.579
+vertex 313.978 427.845 550.579
+vertex 312.578 428.22 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 313.978 430.645 550.579
+vertex 312.578 428.22 550.579
+vertex 311.554 429.245 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 313.978 430.645 550.579
+vertex 311.554 429.245 550.579
+vertex 311.178 430.645 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 342.585 469.355 550.579
+vertex 336.985 469.355 550.579
+vertex 339.785 466.555 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 342.585 469.355 550.579
+vertex 336.985 469.355 550.579
+vertex 339.785 472.155 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 311.178 469.355 550.579
+vertex 316.778 469.355 550.579
+vertex 313.978 472.155 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 311.178 469.355 550.579
+vertex 316.778 469.355 550.579
+vertex 313.978 466.555 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 339.785 508.065 550.579
+vertex 335.585 508.065 550.579
+vertex 334.185 505.265 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 339.785 508.065 550.579
+vertex 335.585 508.065 550.579
+vertex 334.185 510.865 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 313.978 508.065 550.579
+vertex 318.178 508.065 550.579
+vertex 319.578 510.865 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 313.978 508.065 550.579
+vertex 318.178 508.065 550.579
+vertex 319.578 505.265 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 339.785 527.419 550.579
+vertex 343.985 527.419 550.579
+vertex 345.385 524.619 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 339.785 527.419 550.579
+vertex 343.985 527.419 550.579
+vertex 345.385 530.219 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 313.978 527.419 550.579
+vertex 309.778 527.419 550.579
+vertex 308.378 530.219 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 313.978 527.419 550.579
+vertex 309.778 527.419 550.579
+vertex 308.378 524.619 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 339.785 546.774 550.579
+vertex 335.585 546.774 550.579
+vertex 334.185 543.974 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 339.785 546.774 550.579
+vertex 335.585 546.774 550.579
+vertex 334.185 549.574 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 313.978 546.774 550.579
+vertex 318.178 546.774 550.579
+vertex 319.578 549.574 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 313.978 546.774 550.579
+vertex 318.178 546.774 550.579
+vertex 319.578 543.974 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 408.602 353.226 550.579
+vertex 412.802 353.226 550.579
+vertex 414.202 356.026 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 408.602 353.226 550.579
+vertex 412.802 353.226 550.579
+vertex 414.202 350.426 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 434.409 372.581 550.579
+vertex 430.209 372.581 550.579
+vertex 428.809 369.781 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 434.409 372.581 550.579
+vertex 430.209 372.581 550.579
+vertex 428.809 375.381 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 431.609 414.09 550.579
+vertex 431.609 408.49 550.579
+vertex 437.209 411.29 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 434.409 430.645 550.579
+vertex 437.209 430.645 550.579
+vertex 436.833 429.245 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 434.409 430.645 550.579
+vertex 436.833 429.245 550.579
+vertex 435.809 428.22 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 434.409 430.645 550.579
+vertex 435.809 428.22 550.579
+vertex 434.409 427.845 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 434.409 430.645 550.579
+vertex 434.409 427.845 550.579
+vertex 433.009 428.22 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 434.409 430.645 550.579
+vertex 433.009 428.22 550.579
+vertex 431.984 429.245 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 434.409 430.645 550.579
+vertex 431.984 429.245 550.579
+vertex 431.609 430.645 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 434.409 430.645 550.579
+vertex 431.609 430.645 550.579
+vertex 431.984 432.045 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 434.409 430.645 550.579
+vertex 431.984 432.045 550.579
+vertex 433.009 433.07 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 434.409 430.645 550.579
+vertex 433.009 433.07 550.579
+vertex 434.409 433.445 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 434.409 430.645 550.579
+vertex 434.409 433.445 550.579
+vertex 435.809 433.07 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 434.409 430.645 550.579
+vertex 435.809 433.07 550.579
+vertex 436.833 432.045 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 434.409 430.645 550.579
+vertex 436.833 432.045 550.579
+vertex 437.209 430.645 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 437.209 469.355 550.579
+vertex 431.609 469.355 550.579
+vertex 434.409 466.555 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 437.209 469.355 550.579
+vertex 431.609 469.355 550.579
+vertex 434.409 472.155 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 434.409 508.065 550.579
+vertex 430.209 508.065 550.579
+vertex 428.809 505.265 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 434.409 508.065 550.579
+vertex 430.209 508.065 550.579
+vertex 428.809 510.865 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 434.409 527.419 550.579
+vertex 438.609 527.419 550.579
+vertex 440.009 524.619 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 434.409 527.419 550.579
+vertex 438.609 527.419 550.579
+vertex 440.009 530.219 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 434.409 546.774 550.579
+vertex 430.209 546.774 550.579
+vertex 428.809 543.974 550.579
+endloop
+endfacet
+facet normal nan nan nan
+outer loop
+vertex 434.409 546.774 550.579
+vertex 430.209 546.774 550.579
+vertex 428.809 549.574 550.579
+endloop
+endfacet
+facet normal nan nan 0.95
+outer loop
+vertex 374.92 21.2142 579.914
+vertex 459.339 105.52 476.028
+vertex 400 190.615 597.293
+endloop
+endfacet
+endsolid mathgl
