@@ -1,0 +1,44 @@
+/*********************************************************
+*     *****
+*    *~~~~~*   Partial Differential Equations Resource
+*     *o o*              (PDER)
+*     *  *
+*     * *     By: Joseph Dorris, Joey Allen, ALex Kotzman
+*    **                   and Wilson Parker
+*   *
+*********************************************************/
+
+User's Manual
+
+1. Creation of *.pde file (see PDER/new_problem.pde)
+
+5 sections (variables, constants, ranges, equations, initial value)
+Setions separated by "##" blocks
+Comments can be anywhere with "#"
+
+## Variable Section
+TYPE NAME INITIAL
+
+TYPE is either "scalar" for scalar field or "vector" for vector field
+NAME is any variable name that is not one of the reserved names
+  reserved names= X,Y,Z,T,DT
+  not case sensitive
+INITIAL is double value to set the entire field to initially
+
+## CONSTANTS
+
+
+
+
+
+2. Create Initial File
+
+
+
+
+3. start PDER
+
+
+4. CONTROLS
+
+ 
